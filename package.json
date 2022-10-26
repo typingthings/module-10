@@ -1,0 +1,27 @@
+{
+  "name": "module-10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/typingthings/module-10.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/typingthings/module-10/issues"
+  },
+  "homepage": "https://github.com/typingthings/module-10#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
